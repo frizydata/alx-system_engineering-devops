@@ -1,0 +1,1 @@
+This repository is on about basic DevOps, Shell and Bash.
